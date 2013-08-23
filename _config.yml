@@ -1,3 +1,5 @@
 name: Test Jekyll Site
+baseurl: /gh-pages-jekyll-test
 markdown: redcarpet
 pygments: true
+
